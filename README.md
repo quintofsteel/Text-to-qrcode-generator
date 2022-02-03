@@ -1,5 +1,5 @@
 # Message To QRCode Generator
-> This program converts a text of any number of words into QRCode and displays the QRCode instantly
+> This program converts text of any number of words into QRCode and displays the QRCode instantly
 
 ## Table of Contents
 * [General Info](#general-information)
