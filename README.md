@@ -9,13 +9,9 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
+- This project encodes the given message into a qrcode instantly and dsplays the qrcode
+- I developed it in order to have an easy to use qrcode generator  
+- It saves people time of having to look for a website online to do the same job and it doesn't require an internet connect use it
 
 ## Screenshots
 ![Example screenshot](./qr-code-gen.png)
@@ -26,5 +22,5 @@ This project requires PyQt5 and pyqrcode to be installed
 
 
 ## Project Status
-Project is:_complete_
+Project is: _complete_
 
